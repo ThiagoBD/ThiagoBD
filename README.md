@@ -12,7 +12,7 @@ Atualmente aprofundando em **AWS** e arquitetura de microsserviços, vindo de um
 
 ---
 
-## 🛠️ Stack
+## ⚡Stack
 <table>
 </tr>
 <tr>
