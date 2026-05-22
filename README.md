@@ -1,14 +1,23 @@
-# Olá, eu sou o Thiago! 👋
+<h1 align="center">
+Bem Vindo! Eu sou o <a href="https://github.com/ThiagoBD"> Thiago </a>
+ <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 45px>  </a> <br/>
+</h1>
+ 
+<p align="center">
+  <b>Desenvolvedor Java</b> | <b>APIs REST</b> | <b>Spring Framework </b> | <b>Arquitetura de Software</b>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/thiagobarrosdias/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:thiagobarrosdias@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-### Desenvolvedor Backend • Java & Spring Boot • rumo a Java + AWS
 
-Construo sistemas backend com foco em **arquitetura limpa, código testável, desempenho e segurança**.
-Atualmente aprofundando em **AWS** e arquitetura de microsserviços, vindo de uma base sólida em análise de sistemas, sendo **Pós Graduado em Arquitetura de Software pela FIAP**.
+## 👋 Sobre mim
 
-- 🔭 Foco atual: backend em **Java 21 / Spring Boot 3** e fundamentos de **cloud na AWS**
-- 🌱 Estudando: **AWS** (em direção à certificação Developer Associate), mensageria e observabilidade
-- 💬 Assuntos que eu domino: APIs REST, microsserviços, arquitetura hexagonal, banco de dados (Oracle e PostgreSQl)
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/thiagobarrosdias/)
 
 ---
 
